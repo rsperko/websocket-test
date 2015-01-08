@@ -1,0 +1,26 @@
+{
+  "name": "websocket-test",
+  "version": "1.0.0",
+  "description": "Run with:",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.10.7",
+    "jade": "^1.8.2",
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsperko/websocket-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsperko/websocket-test/issues"
+  },
+  "homepage": "https://github.com/rsperko/websocket-test"
+}
